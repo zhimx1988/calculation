@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: zhimx
+Build-Jdk: 1.8.0_05
+Class-Path: lib/jetty-server-9.1.0.M0.jar lib/javax.servlet-api-3.1.0.
+ jar lib/jetty-http-9.1.0.M0.jar lib/jetty-util-9.1.0.M0.jar lib/jetty
+ -io-9.1.0.M0.jar lib/jetty-servlet-9.1.0.M0.jar lib/jetty-security-9.
+ 1.0.M0.jar lib/spring-webmvc-3.2.5.RELEASE.jar lib/spring-beans-3.2.5
+ .RELEASE.jar lib/spring-context-3.2.5.RELEASE.jar lib/spring-aop-3.2.
+ 5.RELEASE.jar lib/spring-expression-3.2.5.RELEASE.jar lib/spring-web-
+ 3.2.5.RELEASE.jar lib/aopalliance-1.0.jar lib/spring-core-3.2.5.RELEA
+ SE.jar lib/commons-logging-1.1.1.jar lib/jackson-core-lgpl-1.9.13.jar
+  lib/jackson-mapper-asl-1.9.13.jar lib/jackson-core-asl-1.9.13.jar li
+ b/log4j-1.2.17.jar lib/commons-fileupload-1.2.jar
+Main-Class: elec.calculation.Main
+Created-By: Maven Integration for Eclipse
+
