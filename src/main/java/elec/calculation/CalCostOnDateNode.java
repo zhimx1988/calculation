@@ -1,4 +1,4 @@
-package elec.calculation;
+package elec.Calculation;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -27,7 +27,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import elec.calculation.RealTimePrice;
 
 @Controller
-public class calCostOnDateNode {
+public class CalCostOnDateNode {
 	@RequestMapping(value = "/test", method = RequestMethod.GET)
 	@ResponseBody
 	public String test(@RequestParam long startId,
