@@ -1,4 +1,4 @@
-package elec.Calculation;
+package elec.calculation;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
